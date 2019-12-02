@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294702887109",
+    "firebase_url": "https://belajar-firebase11.firebaseio.com",
+    "project_id": "belajar-firebase11",
+    "storage_bucket": "belajar-firebase11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294702887109:android:c4c4f01bec0893179800ac",
+        "android_client_info": {
+          "package_name": "com.example.project_kelompok_delapan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294702887109-i4l7puukaf6peni8tk4h23bffuspvcdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkZCztFsWais0wFsh5MqRkSuIrHmSe91A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294702887109-i4l7puukaf6peni8tk4h23bffuspvcdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
